@@ -46,7 +46,7 @@ Each lesson contains:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/gauarj2320/Python-Files
+   git clone https://github.com/gauarj2320/Python-Files.git
    cd python-folder
 ````
 
